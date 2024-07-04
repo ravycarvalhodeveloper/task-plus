@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"> LaGraxa</h1>
 
-## Getting Started
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-First, run the development server:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="center">
+  <img alt="Imagem do projeto" src="./assets/page-taskplus" width="100%">
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Tecnologias
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Learn More
+- Next JS
+- TypeScript
+- Cosmic (CMS)
+- Sass
+- Git e Github
 
-To learn more about Next.js, take a look at the following resources:
+## 💻 Projeto
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+LaGraxa é um projeto inovador que utiliza as mais recentes tecnologias para oferecer uma experiência digital completa e intuitiva para clientes em potencial. Desenvolvida com TypeScript para garantir um código robusto e mais seguro, e Sass para estilos dinâmicos e reutilizáveis, a plataforma é impulsionada pelo Next.js, proporcionando uma navegação rápida e responsiva.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Integrando um CMS poderoso, a landing page permite à oficina gerenciar facilmente conteúdos como serviços oferecidos, depoimentos de clientes e novidades do setor automotivo. A arquitetura otimizada para SEO do Next.js garante que a oficina seja encontrada facilmente pelos motores de busca, aumentando sua visibilidade online.
 
-## Deploy on Vercel
+Os visitantes desfrutam de uma interface amigável que destaca os serviços da oficina, oferece agendamento de serviços online e fornece um canal direto de comunicação através de formulários personalizados. Combinando funcionalidade e design atraente, a landing page não só promove a reputação profissional da oficina, mas também melhora significativamente a interação com clientes em potencial.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto não apenas moderniza a presença digital da oficina de carros, mas também eleva o padrão de atendimento ao cliente e eficiência operacional, representando um passo essencial rumo ao crescimento e sucesso no mercado automotivo atual.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+- [Acesse o projeto finalizado, online](https://lagraxa-evfn835oo-ravy-carvalhos-projects.vercel.app/)
+
+## 🔖 Layout
+
+Layout desenvolvido por Ravy Carvalho.
+
+
+LaGraxa.
+
+
