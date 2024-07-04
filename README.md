@@ -1,4 +1,4 @@
-<h1 align="center"> LaGraxa</h1>
+<h1 align="center"> TaskPlus</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Imagem do projeto" src="./assets/page-taskplus" width="100%">
+  <img alt="Imagem do projeto" src="./src/Assets/page-taskplus.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,28 +23,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Next JS
 - TypeScript
-- Cosmic (CMS)
-- Sass
+- Tailwind
+- NextAuth + Google Cloud
 - Git e Github
 
 ## 💻 Projeto
 
-LaGraxa é um projeto inovador que utiliza as mais recentes tecnologias para oferecer uma experiência digital completa e intuitiva para clientes em potencial. Desenvolvida com TypeScript para garantir um código robusto e mais seguro, e Sass para estilos dinâmicos e reutilizáveis, a plataforma é impulsionada pelo Next.js, proporcionando uma navegação rápida e responsiva.
+Nosso projeto é uma moderna aplicação de lista de tarefas desenvolvida utilizando tecnologias avançadas para oferecer uma experiência fluida e segura aos usuários. Combinando a robustez do Next.js com a tipagem estática do TypeScript e a estilização eficiente do Tailwind CSS, entregamos uma interface intuitiva e responsiva.
 
-Integrando um CMS poderoso, a landing page permite à oficina gerenciar facilmente conteúdos como serviços oferecidos, depoimentos de clientes e novidades do setor automotivo. A arquitetura otimizada para SEO do Next.js garante que a oficina seja encontrada facilmente pelos motores de busca, aumentando sua visibilidade online.
+Principais Recursos:
 
-Os visitantes desfrutam de uma interface amigável que destaca os serviços da oficina, oferece agendamento de serviços online e fornece um canal direto de comunicação através de formulários personalizados. Combinando funcionalidade e design atraente, a landing page não só promove a reputação profissional da oficina, mas também melhora significativamente a interação com clientes em potencial.
+Next.js: Utilizamos Next.js para criar uma aplicação web rápida e otimizada, garantindo renderização do lado do servidor e uma navegação sem interrupções.
 
-Este projeto não apenas moderniza a presença digital da oficina de carros, mas também eleva o padrão de atendimento ao cliente e eficiência operacional, representando um passo essencial rumo ao crescimento e sucesso no mercado automotivo atual.
+TypeScript: Aproveitamos a segurança e produtividade do TypeScript para um desenvolvimento mais confiável, detectando erros em tempo de compilação e melhorando a manutenção do código.
+
+Tailwind CSS: Implementamos o design com Tailwind CSS, permitindo uma personalização detalhada e eficiente sem comprometer o desempenho, graças ao seu uso de classes utilitárias.
+
+NextAuth + Google Cloud: Para autenticação segura e simplificada, integramos NextAuth.js com Google Cloud, oferecendo aos usuários a opção de login com suas contas do Google de forma transparente e confiável.
 
 
-- [Acesse o projeto finalizado, online](https://lagraxa-evfn835oo-ravy-carvalhos-projects.vercel.app/)
+- [Acesse o projeto finalizado, online](https://task-plus-five.vercel.app/)
 
 ## 🔖 Layout
 
 Layout desenvolvido por Ravy Carvalho.
 
 
-LaGraxa.
+TaskPlus.
 
 
